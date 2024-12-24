@@ -1,6 +1,6 @@
 # Utility-Pair
-Utility Pair cards for the Muisc Thing Modular Workshop System Computer  
+Utility Pair cards for the Music Thing Modular Workshop System Computer  
 
-https://chris-j.co.uk/utility_pair/
+https://www.chris-j.co.uk/utility_pair/
 
-For the moment, this repository just exists to collect feedback in GitHub issues.
+For the moment, this repository just exists to collect feedback in GitHub issues. Source code will be added once days are released
