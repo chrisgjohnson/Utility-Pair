@@ -1,4 +1,4 @@
-# Utility-Pair
+no# Utility-Pair
 Source code for the Utility Pair cards for the [Music Thing Modular Workshop System Computer](https://www.musicthing.co.uk/workshopsystem/).
 
 For documentation and the UF2 files that can be put on a Computer card, see the [Utility Pair website](https://www.chris-j.co.uk/utility_pair/).
@@ -17,7 +17,7 @@ make
 
 
 ## Licences
-This code is currently [not under a license](https://choosealicense.com/no-permission/), but once I've figured out where best to take Utility Pair in the future (whether other people want to write and share their own utilities, for example) I plan to license it. Get in touch if you have any thoughts, want to use the code in something else, etc.
+This code is currently [not under a license](https://choosealicense.com/no-permission/), but once I've figured out where best to take Utility Pair in the future (whether other people want to write and share their own utilities, for example) I plan to license it under some open source license. Get in touch if you have any thoughts, want to use the code in something else, etc.
 
 `ComputerCard.h` is part of the [ComputerCard](https://github.com/TomWhitwell/Workshop_Computer/tree/main/Demonstrations%2BHelloWorlds/PicoSDK/ComputerCard) library.
 
