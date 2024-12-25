@@ -16,9 +16,7 @@ make
 *Warning!* The default build includes all 625 utility pair targets, and takes a few hours to compile (producing a >5GB build directory in the process). See the `CMakeLists.txt` file for how to reduce this to a subset of the pairs for a much smaller/faster build.
 
 
-## Licence
-
-This code is shared under the Creative Commons [CC-BY-SA: Attribution / ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license. 
+## Licences
 
 `ComputerCard.h` is part of the [ComputerCard](https://github.com/TomWhitwell/Workshop_Computer/tree/main/Demonstrations%2BHelloWorlds/PicoSDK/ComputerCard) library.
 
