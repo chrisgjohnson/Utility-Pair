@@ -1,4 +1,4 @@
-no# Utility-Pair
+# Utility-Pair
 Source code for the Utility Pair cards for the [Music Thing Modular Workshop System Computer](https://www.musicthing.co.uk/workshopsystem/).
 
 For documentation and the UF2 files that can be put on a Computer card, see the [Utility Pair website](https://www.chris-j.co.uk/utility_pair/).
