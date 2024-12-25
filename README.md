@@ -17,6 +17,7 @@ make
 
 
 ## Licences
+This code is currently [not under a license](https://choosealicense.com/no-permission/), but once I've figured out where best to take Utility Pair in the future (whether other people want to write and share their own utilities, for example) I plan to license it. Get in touch if you have any thoughts, want to use the code in something else, etc.
 
 `ComputerCard.h` is part of the [ComputerCard](https://github.com/TomWhitwell/Workshop_Computer/tree/main/Demonstrations%2BHelloWorlds/PicoSDK/ComputerCard) library.
 
@@ -24,4 +25,3 @@ Source code in the `loops/` directory is not shared under this license, and has 
 - [Suggested audio for the Radio Music](https://github.com/TomWhitwell/RadioMusic/wiki/Audio-for-the-SD-Card)
 - ['Rasputin' on looperman.com](https://www.looperman.com/loops/detail/382008/spector-christmas-groove-free-150bpm-pop-drum-loopnot)
 - [Ashley Hannson on samplefocus.com](https://samplefocus.com/samples/sleigh-bells-c)
-
