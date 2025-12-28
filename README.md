@@ -17,7 +17,7 @@ make
 
 
 ## Licences
-This code is currently [not under a license](https://choosealicense.com/no-permission/), but once I've figured out where best to take Utility Pair in the future (whether other people want to write and share their own utilities, for example) I plan to license it under some open source license. Get in touch if you have any thoughts, want to use the code in something else, etc.
+This code is MIT licensed. I'd love to hear if you build upon the code for another project.
 
 `ComputerCard.h` is part of the [ComputerCard](https://github.com/TomWhitwell/Workshop_Computer/tree/main/Demonstrations%2BHelloWorlds/PicoSDK/ComputerCard) library.
 
